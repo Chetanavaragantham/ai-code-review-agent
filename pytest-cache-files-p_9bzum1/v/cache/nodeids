@@ -1,0 +1,15 @@
+[
+  "tests/test_agent.py::TestAnalyzeAst::test_detects_class_names",
+  "tests/test_agent.py::TestAnalyzeAst::test_detects_function_names",
+  "tests/test_agent.py::TestAnalyzeAst::test_empty_code_returns_zeros",
+  "tests/test_agent.py::TestAnalyzeAst::test_function_and_class_counts",
+  "tests/test_agent.py::TestAnalyzeComplexity::test_output_contains_function_name",
+  "tests/test_agent.py::TestAnalyzeComplexity::test_returns_string",
+  "tests/test_agent.py::TestAnalyzeSecurity::test_clean_code_returns_string",
+  "tests/test_agent.py::TestAnalyzeSecurity::test_flags_shell_true",
+  "tests/test_agent.py::TestAnalyzeStyle::test_flags_missing_docstrings",
+  "tests/test_agent.py::TestAnalyzeStyle::test_returns_string",
+  "tests/test_agent.py::TestReviewCode::test_agent_chat_called_once",
+  "tests/test_agent.py::TestReviewCode::test_code_is_passed_to_agent",
+  "tests/test_agent.py::TestReviewCode::test_returns_string"
+]

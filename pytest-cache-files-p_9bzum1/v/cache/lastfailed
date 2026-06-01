@@ -1,0 +1,6 @@
+{
+  "tests/test_agent.py::TestAnalyzeStyle::test_flags_missing_docstrings": true,
+  "tests/test_agent.py::TestReviewCode::test_returns_string": true,
+  "tests/test_agent.py::TestReviewCode::test_agent_chat_called_once": true,
+  "tests/test_agent.py::TestReviewCode::test_code_is_passed_to_agent": true
+}

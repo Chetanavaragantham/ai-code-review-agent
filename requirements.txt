@@ -1,0 +1,28 @@
+# Core agent framework
+llama-index-core==0.14.22
+llama-index-llms-openai==0.7.9
+llama-index-workflows==2.20.0
+
+# LLM provider
+openai==2.39.0
+
+# Static analysis tools (called by the agent's tools)
+radon==6.0.1
+bandit==1.9.4
+pylint==4.0.5
+
+# API layer
+fastapi==0.115.12
+uvicorn==0.34.3
+
+# UI
+gradio==6.15.2
+
+# Data validation
+pydantic==2.13.4
+
+# Load .env file into environment variables
+python-dotenv==1.2.2
+
+# Testing
+pytest==9.0.3
